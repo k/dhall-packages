@@ -1,0 +1,1 @@
+{ serviceAccountName = None, replicas = 1, annotations = None (List { mapKey : Text, mapValue : Text }) }

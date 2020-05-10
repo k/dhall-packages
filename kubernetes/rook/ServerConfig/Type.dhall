@@ -1,0 +1,1 @@
+{ accessMode : Text, squash : Text }
