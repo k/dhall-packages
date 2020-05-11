@@ -1,1 +1,1 @@
-{ clients = Some ["all"] }
+{ clients = Some "all" }
