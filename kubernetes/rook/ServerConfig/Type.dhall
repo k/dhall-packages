@@ -1,1 +1,5 @@
-{ accessMode : Text, squash : Text }
+{
+, accessMode : Text
+, squash : Text
+, clients: Optional (List Text)
+}
